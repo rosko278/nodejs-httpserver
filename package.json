@@ -1,0 +1,23 @@
+{
+  "name": "04_node_http_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosko278/nodejs-httpserver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosko278/nodejs-httpserver/issues"
+  },
+  "homepage": "https://github.com/rosko278/nodejs-httpserver#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
